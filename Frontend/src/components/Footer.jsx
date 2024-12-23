@@ -63,25 +63,25 @@ export const Footer = () => {
 
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col items-center">
           <div className="flex space-x-6 mb-4">
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
+            <a href="https://github.com/avanishyadav911" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
               <FaGithub size={24} />
               <span className="sr-only">GitHub</span>
             </a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
+            <a href="https://www.linkedin.com/in/avanish-yadav/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
               <FaLinkedin size={24} />
               <span className="sr-only">LinkedIn</span>
             </a>
-            <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
+            <a href="https://x.com/_Avanishyadav" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
               <FaTwitter size={24} />
               <span className="sr-only">Twitter</span>
             </a>
-            <a href="mailto:your.email@example.com" className="text-gray-400 hover:text-white transition-colors duration-300">
+            <a href="mailto:avanish9113@gmail.com" className="text-gray-400 hover:text-white transition-colors duration-300">
               <FaEnvelope size={24} />
               <span className="sr-only">Email</span>
             </a>
           </div>
           <p className="text-sm text-gray-500">
-            © {new Date().getFullYear()} Your Name. All rights reserved.
+            © {new Date().getFullYear()} Avanish Yadav. All rights reserved.
           </p>
         </div>
       </div>
